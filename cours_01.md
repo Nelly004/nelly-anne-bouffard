@@ -8,5 +8,12 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
+## Nelly
+# Introduction
 
+Ce qui m'a attiré vers le programme **TIM** est principalement son aspect artistique mélangé avec le domaine technologique, qui sont deux champs d'intérêt qui me passionnent depuis longtemps. Je me suis dit que cette technique me gardera motivée puisque les projets concordent avec mes loisirs. je suis motivée par les cours de design (photoshop) et de programmation, car ce sont deux choses que j'ai voulu me lancer dedans à un point mais je ne savais pas où commencer. Je n'ai pas exactement un métier en tête, mais je sais que je souhaite trouver une occupation qui met en pratique mon côté créatif.  
 
+* test
+* test 2
+
+😃
