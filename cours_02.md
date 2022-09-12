@@ -16,8 +16,9 @@ J'ai choisi cette oeuvre car elle concerne un sujet qui est important mais peu d
 *Illumi* est une activité avec énormément de jeux de lumière captivants. Elle tente de faire vivre une expérience mémorable aux visiteurs en les faisant prendre une marche au travers de plusieurs mondes colorés. La création de différents mondes au travers du multimédia. 
 
 ### [Planetarium](https://espacepourlavie.ca/acces/planetarium-rio-tinto-alcan) 
-J'aime cette expérience intéractive car je suis passionnée de l'espace et de l'inconnu. Elle utilise des techniques de projection sophistiquées pour représenter l'espace avec une   
+J'aime cette expérience intéractive car je suis passionnée de l'espace et de l'inconnu. Elle utilise des techniques de projection sophistiquées ainsi que du montage vidéo pour donner l'impression aux spectateurs de se trouver dans l'espace. Permettre à une audience de visiter des lieux trop lointains est intéressant.  
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Alice](https://experiments.withgoogle.com/alice)
+Cette intelligence artificielle m'intéresse car elle permet aux joueurs de dessiner et s'amuser à faire en sorte qu'elle devine les émotions qu'ils illustre. Les expériences qui permettent aux participants de s'amuser à créer sont amusantes.
+
 
