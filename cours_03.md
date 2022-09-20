@@ -16,7 +16,7 @@ Designer graphique, car j'aimerais vraiment travailler dans le domaine artistiqu
 Je m'identifie beaucoup à Riot Games car cette compagnie est réputée pour son bon contenu et la façon dont elle traite ses employés. Elle a créé plusieurs de mes pièces de média préférées comme la série Arcane. J'aimerais bien pouvoir travailler pour eux un jour.
 
 ### Dans 5 ans
-Dans 5 ans, je me vois travailler dans des domaines comme le montage vidéo, le graphisme ou le modelage 3D. J'aimerais participer au développement de jeux vidéo, films ou court-métrages. 
+Dans 5 ans, je me vois travailler dans des domaines comme le montage vidéo, le graphisme ou le modelage 3D. J'aimerais participer au développement de jeux vidéo, films ou court-métrages. Je crois aussi poursuivre mes études.
 
 ### Projets
 J'aimerais faire un jeu vidéo et me charger de faire le design de la disposition de l'écran, des personnages, de l'environnement, etc. 
