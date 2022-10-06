@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Je crois que j'ai bien expliqué pourquoi je me suis engagée dans le programme d'intégration multimédia et j'aimais bien mon diaporama.
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+Je parlais trop vite donc je dois ralentir mon tonus, aussi je regardais trop mon diaporama au lieu de l'audience.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai adoré la présentation de Delphine. Son powerpoint était très beau et elle a beaucoup de vécu donc son histoire de vie était intéressante.
